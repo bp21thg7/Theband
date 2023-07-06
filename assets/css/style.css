@@ -322,8 +322,8 @@ html {
 .modal-form {
   position: relative;
   background-color: #fff;
-  max-width: 900px;
-  min-width: 80%;
+  width: 900px;
+  /* min-width: 80%; */
   box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .modal .close-btn {
