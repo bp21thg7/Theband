@@ -376,6 +376,7 @@ html {
   padding: 18px;
   width: 100%;
   border: none;
+  cursor: pointer;
   font-size: 15px;
   background-color: #009688;
   color: #fff;
