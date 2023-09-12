@@ -57,9 +57,9 @@ html {
   left: 0;
   min-width: 160px;
   background-color: #fff;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
   /* bỏ định dạng danh sách */
   list-style-type: none;
-  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
 }
 #nav .nav-list a {
   color: #000;
